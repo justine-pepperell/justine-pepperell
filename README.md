@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, testing, cybersecurity, and civic technology. 
 - 🌱 I’m currently learning Cypress for automation testing, more about testing and quality assurance in general, and working on my javaScript skills. 
 - 💞️ I’m looking to collaborate on projects that make me smile. 
-- 📫 How to reach me justine.pepperell@gmail.com
+
 
 <!---
 justine-pepperell/justine-pepperell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
