@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justine-pepperell
-- 👀 I’m interested in coding, context-driven testing, cybersecurity, and civic technology. 
-- 🌱 I’m currently learning more about testing and quality assurance in general and working on my javaScript skills. 
+- 👀 I’m interested in coding, context-driven testing, cybersecurity, civic technology, and civic hacking. 
+- 🌱 I’m currently learning more about testing and quality assurance, API security practices, and working on my javaScript skills. 
 - 💞️ I’m looking to collaborate on projects that make me smile. 
 
 
