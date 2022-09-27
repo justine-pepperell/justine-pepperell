@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justine-pepperell
 - 👀 I’m interested in accessibility, security, and full-stack web development. 
-- 🌱 I’m currently starting my journey to learn php after starting my programming journey with javaScript. 
+- 🌱 I’m currently learning php after starting my programming journey with javaScript. 
 
 
 
