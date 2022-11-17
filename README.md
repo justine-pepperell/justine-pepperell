@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justine-pepperell
 - 👀 I’m interested in accessibility, security, full-stack web development, building on the cloud. 
-- 🌱 I’m currently learning AWS, working on my javaScript, and starting to learn php. 
+- 🌱 I’m currently learning AWS, working on my javaScript, and starting to learn python. 
 
 
 
